@@ -9,35 +9,6 @@ It is a car rental project that consist of <a href="https://github.com/szrbng/Ca
 
 I have been developed this project to improve myself. If you need detailed information do not hesitate to contact me.
 
-## Images
-
-![Home](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/home.jpg)
-
-![Register](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/registerform.jpg)
-
-![Login](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/loginform.jpg)
-
-![CarsW/MultipleSelection](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/multiple-selection-filter.jpg)
-
-![CarDetailAdmin](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/car-detail-admin-mode.jpg)
-
-![AdminCars](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/admin-cars.jpg)
-
-![AdminBrands](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/admin-brands.jpg)
-
-![AdminAddCar](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/admin-add-car.jpg)
-
-![AdminUpdateCar](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/admin-update-car.jpg)
-
-![AdminDeleteCar](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/admin-delete-car.jpg)
-
-![CarRent](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/car-rent-modal.jpg)
-
-![Profile](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/profile-user.jpg)
-
-![AutoFilledCards](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/auto-filled-cards.jpg)
-
-![Filled](https://github.com/szrbng/car-rental-ng/blob/master/readme-images/filled.jpg)
 
 
 # CarRentalNg
